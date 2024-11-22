@@ -29,3 +29,30 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+
+/* ACÁ EMPIEZAN LOS STYLES*/
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+article#item_card {
+    width: 16.6rem;
+    background-color: antiquewhite;
+    height: 20rem;
+    display: flex;
+    border-radius: 1.5rem;
+    justify-content: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+    article#item_card img {
+        position: relative;
+        width: 70%;
+    }

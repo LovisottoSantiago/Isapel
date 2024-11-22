@@ -5,6 +5,30 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">¡Hola Mundo!</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Test Scraper</h1>
+    
+    <container class="MainContainer">
+
+        <h2>Lista de Productos</h2>
+
+        <div class="flex-container">
+        
+            @foreach (var producto in Model.ListaProductos)
+            {
+                <article id="item_card">
+
+                    <img src="@producto.Imagen"/>
+                    <a>@producto.Nombre</a>
+                    <a>Precio de compra: $@producto.Precio.</a>
+                    <a>Precio de venta: $@MathF.Round(producto.Precio * 1.35f, 0).</a>
+
+
+
+                </article>
+            }
+
+        </div>
+
+    </container>
+
 </div>

@@ -17,7 +17,6 @@ C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\Isapel.RazorAssemblyIn
 C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\scopedcss\bundle\Isapel.styles.css
 C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\scopedcss\projectbundle\Isapel.bundle.scp.css
-C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\compressed\h1mm1eu058-b9sayid5wm.gz
 C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\compressed\9ue9ltsnww-61n19gt1b8.gz
 C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\compressed\l3fap3rb49-xtxxf3hu2r.gz
 C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\compressed\76z3azx0y7-bqjiyaj88i.gz
@@ -96,3 +95,9 @@ C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\refint\Isapel.dll
 C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\Isapel.pdb
 C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\Isapel.genruntimeconfig.cache
 C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\ref\Isapel.dll
+C:\Users\Lovidev\Documents\GitHub\Isapel\bin\Debug\net9.0\HtmlAgilityPack.dll
+C:\Users\Lovidev\Documents\GitHub\Isapel\bin\Debug\net9.0\HtmlAgilityPack.CssSelectors.dll
+C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\Isapel.csproj.AssemblyReference.cache
+C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\Isapel.sourcelink.json
+C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\Isapel.csproj.Up2Date
+C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\compressed\h1mm1eu058-khyjzk9hjx.gz
