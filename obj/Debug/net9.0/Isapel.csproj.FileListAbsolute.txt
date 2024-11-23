@@ -100,4 +100,8 @@ C:\Users\Lovidev\Documents\GitHub\Isapel\bin\Debug\net9.0\HtmlAgilityPack.CssSel
 C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\Isapel.csproj.AssemblyReference.cache
 C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\Isapel.sourcelink.json
 C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\Isapel.csproj.Up2Date
-C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\compressed\h1mm1eu058-khyjzk9hjx.gz
+C:\Users\Lovidev\Documents\GitHub\Isapel\obj\Debug\net9.0\compressed\h1mm1eu058-w229va2p6b.gz
+C:\Users\Lovidev\Documents\GitHub\Isapel\bin\Debug\net9.0\selenium-manager\linux\selenium-manager
+C:\Users\Lovidev\Documents\GitHub\Isapel\bin\Debug\net9.0\selenium-manager\macos\selenium-manager
+C:\Users\Lovidev\Documents\GitHub\Isapel\bin\Debug\net9.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Lovidev\Documents\GitHub\Isapel\bin\Debug\net9.0\WebDriver.dll

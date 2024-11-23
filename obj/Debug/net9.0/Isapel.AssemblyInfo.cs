@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Isapel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8018aa53ef26bd95a0b071bba2d9af610df28137")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+974b585130146f64557ff69f15f1e9432c333f42")]
 [assembly: System.Reflection.AssemblyProductAttribute("Isapel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Isapel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

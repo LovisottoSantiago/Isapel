@@ -1,6 +1,7 @@
 using Isapel.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Diagnostics;
 
 namespace Isapel.Pages
 {
@@ -14,7 +15,8 @@ namespace Isapel.Pages
         public IndexModel(ILogger<IndexModel> logger)
         {
             _logger = logger;
-            ListaProductos = SinaScraper.GetProductos();
+             ListaProductos = SinaScraper.GetProductos();
+
         }
 
         public void OnGet()
